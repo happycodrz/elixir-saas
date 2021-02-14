@@ -1,0 +1,5 @@
+https://github.com/bizneo/attribrutex [] Configure custom fields dynamically on your Phoenix models
+https://github.com/bizneo/importex [] Importex is a wrapper to import files (by now csv), checking data types and casting.
+https://github.com/bizneo/intercooler [] Plug for Intercooler.js
+https://github.com/bizneo/multi_tenant [] Database multitenancy for Elixir applications
+https://github.com/bizneo/taglet [] Tagging plugin inspired on acts-as-taggable-on gem.
