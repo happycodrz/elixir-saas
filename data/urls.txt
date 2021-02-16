@@ -1,5 +1,16 @@
+https://github.com/alexdesousa/ayesql [] Library for using raw SQL in Elixir
 https://github.com/bizneo/attribrutex [] Configure custom fields dynamically on your Phoenix models
 https://github.com/bizneo/importex [] Importex is a wrapper to import files (by now csv), checking data types and casting.
 https://github.com/bizneo/intercooler [] Plug for Intercooler.js
 https://github.com/bizneo/multi_tenant [] Database multitenancy for Elixir applications
 https://github.com/bizneo/taglet [] Tagging plugin inspired on acts-as-taggable-on gem.
+https://github.com/lpil/yesql [] An Elixir library for using SQL.
+https://github.com/mathieuprog/changeset_helpers [] Functions to help working with nested changesets and associations
+https://github.com/mathieuprog/graphql-light [] A simple GraphQL client
+https://github.com/mathieuprog/polymorphic_embed [] Polymorphic embeds in Ecto
+https://github.com/mathieuprog/query_builder [] Compose Ecto queries without effort
+https://github.com/mathieuprog/redirect [] Router macro for redirecting a request at a given path to another
+https://github.com/mathieuprog/uploader [] File upload library for Elixir
+https://github.com/mathieuprog/virtual_fields_filler [] Fill the virtual fields for your Ecto structs and nested structs recursively
+https://github.com/nsweeting/ecto_observable [] Ecto Observable adds observable functionality to Ecto Repo.
+https://github.com/sb8244/elixir_response_snapshot [] Implement snapshot testing in Elixir.
