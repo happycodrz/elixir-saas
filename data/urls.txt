@@ -1,17 +1,21 @@
 https://gitee.com/leechaochao/argx [] A DSL for validating function's args.
 https://github.com/alexdesousa/ayesql [] Library for using raw SQL in Elixir
 https://github.com/annkissam/dep_multi [] `DepMulti` is a data structure for performing dependant asynchronous operations.
+https://github.com/Azolo/websockex [] An Elixir Websocket Client
 https://github.com/billperegoy/graphql_builder [] Library to build GraphQL queries and mutations from Elixir structs
 https://github.com/bizneo/attribrutex [] Configure custom fields dynamically on your Phoenix models
 https://github.com/bizneo/importex [] Importex is a wrapper to import files (by now csv), checking data types and casting.
 https://github.com/bizneo/intercooler [] Plug for Intercooler.js
 https://github.com/bizneo/multi_tenant [] Database multitenancy for Elixir applications
 https://github.com/bizneo/taglet [] Tagging plugin inspired on acts-as-taggable-on gem.
+https://github.com/Byzanteam-Labs/hierarch [] Tree structure & hierarchy for ecto models with ltree(Postgres)
 https://github.com/dergraf/gen_json_schema [] Generates a JSON Schema from Elixir/Erlang type specs.
 https://github.com/discord/zen_monitor [] Efficient Process.monitor replacement
 https://github.com/duffelhq/paginator [] Cursor based pagination for Elixir Ecto.
 https://github.com/edenlabllc/ecto_filter [] Aims in building database queries using data as filtering conditions.
 https://github.com/edenlabllc/ecto_paginator [] EctoPaginator
+https://github.com/hissssst/pathex [] Compile-time lenses and paths for elixir structures
+https://github.com/jeregrine/jsonapi [] JSON:API Serializer and Query Handler for Elixir
 https://github.com/jonasschmidt/ex_json_schema [] An Elixir JSON Schema validator
 https://github.com/keathley/sync_dispatch [] SyncDispatch provides an API for executing events synchronously and in-process. This is based on ideas in :telemetry but made slightly more general.
 https://github.com/liuming/json_logic_elixir [] Elixir implementation of JsonLogic
